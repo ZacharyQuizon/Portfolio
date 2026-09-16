@@ -1,0 +1,145 @@
+budget_month,region,category,budget_sales,budget_profit,budget_method
+2026-01-01,Central,Furniture,4112.54,265.93,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,Central,Office Supplies,343.05,132.87,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,Central,Technology,1961.94,177.4,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,East,Furniture,1267.24,51.37,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,East,Office Supplies,2802.63,598.02,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,East,Technology,1489.89,367.65,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,South,Furniture,843.68,-25.92,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,South,Office Supplies,1799.1,807.39,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,South,Technology,1766.24,242.67,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,West,Furniture,2079.5,149.55,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,West,Office Supplies,793.09,257.44,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-01-01,West,Technology,1077.86,328.29,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,Central,Furniture,425.99,-89.76,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,Central,Office Supplies,703.47,-53.67,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,Central,Technology,75.52,1.51,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,East,Furniture,1473.99,170.3,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,East,Office Supplies,1689.75,410.6,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,East,Technology,238.06,72.7,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,South,Furniture,1721.75,351.08,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,South,Office Supplies,3727.39,872.85,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,South,Technology,11413.01,3464.56,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,West,Furniture,617.86,17.98,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,West,Office Supplies,1217.29,280.0,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-02-01,West,Technology,1513.02,154.98,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,Central,Furniture,5421.07,-510.07,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,Central,Office Supplies,5433.11,-517.26,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,Central,Technology,3351.94,514.87,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,East,Furniture,4954.3,-207.31,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,East,Office Supplies,4112.01,873.32,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,East,Technology,9117.82,2048.85,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,South,Furniture,695.14,41.08,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,South,Office Supplies,2279.43,524.73,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,South,Technology,1602.65,88.66,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,West,Furniture,4175.07,332.65,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,West,Office Supplies,6910.14,452.88,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-03-01,West,Technology,9220.87,934.86,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,Central,Furniture,2412.53,242.53,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,Central,Office Supplies,3647.67,-2098.93,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,Central,Technology,1999.13,485.18,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,East,Furniture,3345.15,519.1,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,East,Office Supplies,4314.89,461.02,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,East,Technology,11607.12,3034.12,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,South,Furniture,1040.61,247.58,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,South,Office Supplies,1133.99,64.66,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,South,Technology,1028.37,180.77,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,West,Furniture,7556.21,-456.69,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,West,Office Supplies,2402.69,499.72,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-04-01,West,Technology,1447.12,471.29,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,Central,Furniture,4979.8,523.45,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,Central,Office Supplies,4673.7,823.05,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,Central,Technology,3029.99,267.33,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,East,Furniture,1777.91,377.58,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,East,Office Supplies,4681.43,700.67,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,East,Technology,17996.6,2996.49,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,South,Furniture,4300.6,522.79,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,South,Office Supplies,3535.49,843.97,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,South,Technology,5080.96,1213.02,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,West,Furniture,5314.19,729.3,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,West,Office Supplies,1203.83,359.3,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-05-01,West,Technology,5031.76,629.95,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,Central,Furniture,2613.37,-471.41,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,Central,Office Supplies,1533.3,321.7,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,Central,Technology,2930.74,425.61,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,East,Furniture,3156.87,-197.62,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,East,Office Supplies,7478.38,1526.6,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,East,Technology,2681.16,720.64,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,South,Furniture,1368.21,328.37,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,South,Office Supplies,774.66,194.54,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,South,Technology,1589.49,255.76,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,West,Furniture,7150.95,435.48,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,West,Office Supplies,2454.46,867.78,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-06-01,West,Technology,10480.53,1355.09,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,Central,Furniture,2158.25,-276.12,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,Central,Office Supplies,5652.32,776.54,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,Central,Technology,2917.08,614.52,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,East,Furniture,1752.52,98.24,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,East,Office Supplies,3999.65,-404.53,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,East,Technology,3453.96,83.78,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,South,Furniture,3971.2,737.48,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,South,Office Supplies,1826.24,407.31,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,South,Technology,1289.97,-24.38,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,West,Furniture,6283.45,707.94,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,West,Office Supplies,3550.38,718.15,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-07-01,West,Technology,6669.52,1921.0,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,Central,Furniture,2061.06,46.98,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,Central,Office Supplies,1976.3,-137.97,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,Central,Technology,3503.79,377.97,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,East,Furniture,3455.84,-746.42,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,East,Office Supplies,5546.57,1524.16,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,East,Technology,1653.3,49.13,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,South,Furniture,1170.64,-145.87,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,South,Office Supplies,1235.28,258.99,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,South,Technology,888.09,106.24,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,West,Furniture,6794.35,446.45,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,West,Office Supplies,1567.93,493.47,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-08-01,West,Technology,4401.0,572.31,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,Central,Furniture,9648.13,-837.81,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,Central,Office Supplies,4655.31,-260.5,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,Central,Technology,4600.02,678.67,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,East,Furniture,6510.58,757.05,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,East,Office Supplies,12688.7,2538.92,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,East,Technology,2735.69,368.21,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,South,Furniture,4947.59,603.62,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,South,Office Supplies,3017.07,575.1,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,South,Technology,5020.67,1594.59,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,West,Furniture,8406.69,552.67,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,West,Office Supplies,4815.24,1432.59,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-09-01,West,Technology,12357.7,2910.65,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,Central,Furniture,909.11,-114.0,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,Central,Office Supplies,5137.61,1755.27,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,Central,Technology,21999.94,10272.36,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,East,Furniture,5775.5,248.08,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,East,Office Supplies,3098.15,779.68,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,East,Technology,7397.06,3111.08,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,South,Furniture,894.99,206.33,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,South,Office Supplies,1336.2,97.89,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,South,Technology,1187.27,143.75,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,West,Furniture,5260.06,-371.48,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,West,Office Supplies,8142.83,2613.44,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-10-01,West,Technology,3478.78,-538.84,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,Central,Furniture,8841.63,-107.99,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,Central,Office Supplies,4744.51,922.91,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,Central,Technology,4677.0,956.11,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,East,Furniture,7141.97,78.24,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,East,Office Supplies,4813.44,672.86,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,East,Technology,12865.24,-5732.51,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,South,Furniture,6302.07,94.86,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,South,Office Supplies,4568.61,820.84,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,South,Technology,5973.6,2428.24,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,West,Furniture,12040.65,1163.55,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,West,Office Supplies,7999.7,2866.53,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-11-01,West,Technology,5796.5,1026.33,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,Central,Furniture,11320.26,1604.14,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,Central,Office Supplies,12156.5,5894.07,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,Central,Technology,3885.39,639.14,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,East,Furniture,10138.18,904.6,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,East,Office Supplies,12870.7,3833.67,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,East,Technology,7287.59,1536.21,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,South,Furniture,2898.66,738.3,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,South,Office Supplies,5726.51,591.84,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,South,Technology,3143.61,676.34,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,West,Furniture,15570.18,227.94,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,West,Office Supplies,10512.89,2500.62,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
+2026-12-01,West,Technology,9791.99,1266.56,Prior-year actual + 8% sales growth; prior margin + 1 percentage point
